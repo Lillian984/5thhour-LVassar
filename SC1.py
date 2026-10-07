@@ -36,8 +36,6 @@ Enemies = {
         "Damage": 40,
         "Health" : 120,
         "Weakness" : "Fire"
-},
-    "Bubble": {
         "Ability": "Can kill you will poison bubbles",
         "Damage": 470,
         "Health" : 722,
